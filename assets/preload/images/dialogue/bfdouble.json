@@ -1,24 +1,24 @@
 {
 	"dialogue_pos": "right",
 	"position": [
-		0,
-		50
+		110,
+		30
 	],
-	"scale": 1.25,
+	"scale": 1.4,
 	"animations": [
 		{
 			"loop_name": "matt portrait",
 			"idle_offsets": [
-				0,
-				0
+				10,
+				-60
 			],
 			"idle_name": "matt portrait",
 			"anim": "talk",
 			"loop_offsets": [
-				0,
-				0
+				10,
+				-60
 			]
 		}
 	],
-	"image": "nothing"
+	"image": "bfdouble"
 }
