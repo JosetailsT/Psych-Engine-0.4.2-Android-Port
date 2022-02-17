@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="negrote.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black10000" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10001" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10002" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10003" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10004" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10005" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10006" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10007" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10008" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10009" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10010" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10011" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10012" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10013" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10014" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10015" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10016" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10017" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10018" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black10019" x="0" y="0" width="1" height="1"/>
+	<SubTexture name="black20000" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20001" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20002" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20003" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20004" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20005" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20006" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20007" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20008" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20009" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20010" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20011" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20012" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20013" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20014" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20015" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20016" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20017" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20018" x="1" y="0" width="1920" height="1080"/>
+	<SubTexture name="black20019" x="1" y="0" width="1920" height="1080"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="negro.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="negrofull0000" x="0" y="0" width="2304" height="1296"/>
+	<SubTexture name="puntito0000" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0001" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0002" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0003" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0004" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0005" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0006" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0007" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0008" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0009" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0010" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0011" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0012" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0013" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0014" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0015" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0016" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0017" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0018" x="2304" y="0" width="1" height="1"/>
+	<SubTexture name="puntito0019" x="2304" y="0" width="1" height="1"/>
+</TextureAtlas>

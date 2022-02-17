@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="a.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flashblack0000" x="0" y="0" width="2765" height="1555"/>
+	<SubTexture name="flashblack0001" x="0" y="0" width="2765" height="1555"/>
+	<SubTexture name="flashblack0002" x="2765" y="0" width="2765" height="1555"/>
+	<SubTexture name="flashblack0003" x="2765" y="0" width="2765" height="1555"/>
+	<SubTexture name="flashblack0004" x="0" y="1555" width="2765" height="1555"/>
+	<SubTexture name="flashblack0005" x="0" y="1555" width="2765" height="1555"/>
+	<SubTexture name="flashblack0006" x="2765" y="1555" width="2765" height="1555"/>
+	<SubTexture name="flashblack0007" x="2765" y="1555" width="2765" height="1555"/>
+	<SubTexture name="flashblack0008" x="0" y="3110" width="2765" height="1555"/>
+	<SubTexture name="flashblack0009" x="2765" y="3110" width="2765" height="1555"/>
+	<SubTexture name="flashblack0010" x="2765" y="3110" width="2765" height="1555"/>
+	<SubTexture name="flashblack0011" x="0" y="4665" width="2765" height="1555"/>
+	<SubTexture name="flashblack0012" x="0" y="4665" width="2765" height="1555"/>
+	<SubTexture name="flashblack0013" x="2765" y="4665" width="2765" height="1555"/>
+	<SubTexture name="flashblack0014" x="2765" y="4665" width="2765" height="1555"/>
+	<SubTexture name="flashblack0015" x="0" y="6220" width="2765" height="1555"/>
+	<SubTexture name="flashblack0016" x="0" y="6220" width="2765" height="1555"/>
+	<SubTexture name="flashblack0017" x="2765" y="6220" width="2765" height="1555"/>
+	<SubTexture name="flashblack0018" x="2765" y="6220" width="2765" height="1555"/>
+	<SubTexture name="flashpoint0000" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0001" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0002" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0003" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0004" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0005" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0006" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0007" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0008" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0009" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0010" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0011" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0012" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0013" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0014" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0015" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0016" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0017" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0018" x="5530" y="6220" width="1" height="1"/>
+	<SubTexture name="flashpoint0019" x="5530" y="6220" width="1" height="1"/>
+</TextureAtlas>
