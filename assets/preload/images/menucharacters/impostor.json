@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "impostor1",
+	"idle_anim": "impostor1",
+	"position": [
+		524,
+		101
+	],
+	"scale": 1,
+	"image": "impostor_menu"
+}

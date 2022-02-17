@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="impostor_menu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="impostor10000" x="0" y="0" width="1316" height="496"/>
+	<SubTexture name="impostor10001" x="1316" y="0" width="1316" height="496"/>
+	<SubTexture name="impostor10002" x="2632" y="0" width="1316" height="496"/>
+	<SubTexture name="impostor10003" x="0" y="496" width="1316" height="496"/>
+	<SubTexture name="impostor10004" x="1316" y="496" width="1316" height="496"/>
+	<SubTexture name="impostor10005" x="2632" y="496" width="1316" height="496"/>
+	<SubTexture name="impostor10006" x="0" y="992" width="1316" height="496"/>
+	<SubTexture name="impostor10007" x="1316" y="992" width="1316" height="496"/>
+	<SubTexture name="impostor10008" x="2632" y="992" width="1316" height="496"/>
+	<SubTexture name="impostor10009" x="0" y="1488" width="1316" height="496"/>
+	<SubTexture name="impostor10010" x="0" y="0" width="1316" height="496"/>
+	<SubTexture name="impostor10011" x="1316" y="0" width="1316" height="496"/>
+	<SubTexture name="impostor10012" x="2632" y="0" width="1316" height="496"/>
+	<SubTexture name="impostor10013" x="0" y="496" width="1316" height="496"/>
+	<SubTexture name="impostor10014" x="1316" y="496" width="1316" height="496"/>
+	<SubTexture name="impostor10015" x="2632" y="496" width="1316" height="496"/>
+	<SubTexture name="impostor10016" x="0" y="992" width="1316" height="496"/>
+	<SubTexture name="impostor10017" x="1316" y="992" width="1316" height="496"/>
+	<SubTexture name="impostor10018" x="2632" y="992" width="1316" height="496"/>
+	<SubTexture name="impostor10019" x="0" y="1488" width="1316" height="496"/>
+</TextureAtlas>
