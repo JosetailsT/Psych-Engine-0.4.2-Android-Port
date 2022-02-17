@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				171,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "impostor left"
+		},
+		{
+			"offsets": [
+				130,
+				194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "impostor up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				73
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "impostor hit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-63,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "impostor down"
+		},
+		{
+			"offsets": [
+				-60,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "impostor right"
+		},
+		{
+			"offsets": [
+				28,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sus idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impostor_suicide",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "impostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-200,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
