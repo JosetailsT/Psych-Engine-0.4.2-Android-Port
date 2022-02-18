@@ -1,0 +1,10 @@
+{
+	"idle_anim": "ralsei idle",
+	"image": "ralsei",
+	"position": [
+		94,
+		105
+	],
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}
