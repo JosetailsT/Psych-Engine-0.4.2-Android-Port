@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				37,
-				63
+				43,
+				70
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				16,
-				31
+				-12,
+				41
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-2,
-				87
+				-5,
+				108
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-28,
-				53
+				-33,
+				55
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -46,23 +46,23 @@
 		},
 		{
 			"offsets": [
-				40,
-				60
+				38,
+				56
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle0",
+			"name": "idle forced0",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sonic",
+	"image": "characters/sonic_forced",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "sonic",
+	"healthicon": "sonic-forced",
 	"flip_x": false,
 	"healthbar_colors": [
 		80,

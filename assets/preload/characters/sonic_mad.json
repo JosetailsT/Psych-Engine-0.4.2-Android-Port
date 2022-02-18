@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				37,
-				63
+				47,
+				56
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				16,
-				31
+				27,
+				44
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-2,
-				87
+				6,
+				64
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-28,
-				53
+				-6,
+				58
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -46,23 +46,23 @@
 		},
 		{
 			"offsets": [
-				40,
-				60
+				39,
+				56
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle0",
+			"name": "idle angyy",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sonic",
+	"image": "characters/sonic_mad",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "sonic",
+	"healthicon": "sonic-mad",
 	"flip_x": false,
 	"healthbar_colors": [
 		80,

@@ -1,77 +1,77 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				34,
-				56
+				31,
+				20
 			],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "left0"
+			"name": "left dark"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				31,
-				50
+				9,
+				12
 			],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down0"
+			"name": "down dark"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				13,
-				73
+				-10,
+				191
 			],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up0"
+			"name": "up dark"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				43,
-				28
+				-34,
+				36
 			],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right0"
+			"name": "right dark"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				40,
-				60
+				29,
+				68
 			],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "idle0"
+			"name": "idle dark"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/tails",
+	"image": "characters/sonic_dark",
 	"position": [
-		0,
-		0
+		-130,
+		60
 	],
-	"healthicon": "tails",
+	"healthicon": "sonic-dark",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		215,
-		0
+		80,
+		35,
+		195
 	],
 	"camera_position": [
-		30,
-		110
+		120,
+		100
 	],
 	"sing_duration": 6.1,
 	"scale": 0.7

@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				34,
-				56
+				51,
+				55
 			],
 			"fps": 24,
 			"anim": "singLEFT",
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				31,
-				50
+				39,
+				49
 			],
 			"fps": 24,
 			"anim": "singDOWN",
@@ -25,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				13,
+				23,
 				73
 			],
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				43,
-				28
+				29,
+				25
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -57,21 +57,21 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/tails",
+	"image": "characters/swagtails",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "tails",
+	"healthicon": "swagtails",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		215,
-		0
+		0,
+		100,
+		255
 	],
 	"camera_position": [
-		30,
-		110
+		-20,
+		90
 	],
 	"sing_duration": 6.1,
 	"scale": 0.7

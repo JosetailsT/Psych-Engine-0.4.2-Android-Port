@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				37,
+				36,
 				63
 			],
 			"loop": false,
@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				16,
+				15,
 				31
 			],
 			"loop": false,
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-2,
+				-3,
 				87
 			],
 			"loop": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-28,
+				-29,
 				53
 			],
 			"loop": false,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				40,
+				38,
 				60
 			],
 			"loop": false,
@@ -57,17 +57,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sonic",
+	"image": "characters/scourge",
 	"position": [
 		0,
-		0
+		60
 	],
-	"healthicon": "sonic",
+	"healthicon": "scourge",
 	"flip_x": false,
 	"healthbar_colors": [
 		80,
-		135,
-		255
+		220,
+		0
 	],
 	"camera_position": [
 		10,
