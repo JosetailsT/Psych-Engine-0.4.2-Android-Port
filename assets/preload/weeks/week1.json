@@ -1,49 +1,25 @@
 {
+	"storyName": "Tails get trolled lol",
+	"hideFreeplay": false,
+	"weekBackground": "tails",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"Chasing",
-			"tailsHappy",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Darkness",
+			"Talentless fox",
 			"tails",
 			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Sidekick",
-			"sonictails",
-			[
-				146,
-				113,
-				253
+				255,
+				215,
+				20
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "",
-	"weekCharacters": [
-		"tails",
-		"bf",
-		"gf"
-	],
-	"storyName": "Vs Tails.EXE",
-	"weekName": "Custom Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Tails Week"
 }

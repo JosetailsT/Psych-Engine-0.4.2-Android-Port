@@ -1,22 +1,58 @@
 {
 	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+		[
+			"no-heroes",
+			"scourge",
+			[
+				146,
+				220,
+				0
+			]
+		],
+		[
+			"no-bitches-penkaru",
+			"dripsonic",
+			[
+				255,
+				195,
+				93
+			]
+		],
+		[
+			"no-bitches-matasaki",
+			"dripsonic",
+			[
+				255,
+				195,
+				93
+			]
+		],
+		[
+			"groovy-fox",
+			"tails",
+			[
+				255,
+				175,
+				0
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
 	"weekCharacters": [
-		"parents-christmas",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"storyName": "Your New Week",
+	"weekName": "week5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

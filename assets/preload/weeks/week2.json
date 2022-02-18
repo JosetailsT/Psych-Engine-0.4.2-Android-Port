@@ -1,31 +1,31 @@
 {
 	"songs": [
 		[
-			"Octane",
-			"cough",
+			"tsuraran-fox",
+			"swagtails",
 			[
-				146,
-				113,
-				253
+				0,
+				95,
+				255
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "",
+	"weekBackground": "stage",
+	"difficulties": "hard",
 	"weekCharacters": [
-		"",
-		"?",
-		""
+		"dad",
+		"bf",
+		"gf"
 	],
-	"storyName": "Skyway Octane",
+	"storyName": "Your New Week",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "week1",
-	"startUnlocked": false
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

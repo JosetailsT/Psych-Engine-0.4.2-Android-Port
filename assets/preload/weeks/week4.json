@@ -1,22 +1,49 @@
 {
 	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+		[
+			"die-batsards",
+			"shadow",
+			[
+				20,
+				0,
+				20
+			]
+		],
+		[
+			"high-shovel",
+			"knuckles",
+			[
+				180,
+				20,
+				0
+			]
+		],
+		[
+			"taste-for-blood",
+			"sonic-dark",
+			[
+				6,
+				13,
+				173
+			]
+		]
 	],
-	
+	"hideFreeplay": false,
+	"weekBackground": "shadow",
+	"difficulties": "hard",
 	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
+	"storyName": "shadow gets trolled lol",
+	"weekName": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "Sonic Week",
+	"startUnlocked": true
 }
