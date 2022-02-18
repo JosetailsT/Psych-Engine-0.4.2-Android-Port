@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-64
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ralsei idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				76,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ralsei right"
+		},
+		{
+			"offsets": [
+				74,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ralsei down"
+		},
+		{
+			"offsets": [
+				98,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ralsei up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-43
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ralsei left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ralsei prophecy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ralsei prophecy",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		74,
+		29
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

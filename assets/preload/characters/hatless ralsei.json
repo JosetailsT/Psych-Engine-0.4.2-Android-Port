@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ralsei idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-115
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ralsei left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-137
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ralsei right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-168
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ralsei down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ralsei up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hatless ralsei",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hatless ralsei",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		171,
+		178
+	],
+	"camera_position": [
+		29,
+		155
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
