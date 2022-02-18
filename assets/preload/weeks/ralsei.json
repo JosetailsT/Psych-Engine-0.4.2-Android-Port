@@ -1,0 +1,49 @@
+{
+	"storyName": "fluffy boy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "castle",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lullaby",
+			"ralsei",
+			[
+				128,
+				211,
+				171
+			]
+		],
+		[
+			"the legend",
+			"ralsei",
+			[
+				128,
+				211,
+				171
+			]
+		],
+		[
+			"my castle town",
+			"hatless ralsei",
+			[
+				243,
+				171,
+				178
+			]
+		]
+	],
+	"weekCharacters": [
+		"ralsei",
+		"bf",
+		"gf"
+	],
+	"weekName": "ralsei week"
+}
