@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="front.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="front0000" x="0" y="0" width="2767" height="758" frameX="-4" frameY="-26" frameWidth="2784" frameHeight="785"/>
+	<SubTexture name="front0001" x="0" y="0" width="2767" height="758" frameX="-4" frameY="-26" frameWidth="2784" frameHeight="785"/>
+	<SubTexture name="front0002" x="0" y="758" width="2766" height="766" frameX="-6" frameY="-19" frameWidth="2784" frameHeight="785"/>
+	<SubTexture name="front0003" x="0" y="758" width="2766" height="766" frameX="-6" frameY="-19" frameWidth="2784" frameHeight="785"/>
+	<SubTexture name="front0004" x="0" y="1524" width="2781" height="782" frameX="-1" frameY="-3" frameWidth="2784" frameHeight="785"/>
+	<SubTexture name="front0005" x="0" y="1524" width="2781" height="782" frameX="-1" frameY="-3" frameWidth="2784" frameHeight="785"/>
+	<SubTexture name="front0006" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0007" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0008" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0009" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0010" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0011" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0012" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0013" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0014" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0015" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0016" x="0" y="2306" width="2784" height="785"/>
+	<SubTexture name="front0017" x="0" y="2306" width="2784" height="785"/>
+</TextureAtlas>
