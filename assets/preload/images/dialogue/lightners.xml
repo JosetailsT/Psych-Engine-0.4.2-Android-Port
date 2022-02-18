@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightners.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kris normal0000" x="0" y="0" width="338" height="464"/>
+	<SubTexture name="kris smile0000" x="338" y="0" width="338" height="464"/>
+	<SubTexture name="susie confused0000" x="676" y="0" width="392" height="460" frameX="-17" frameY="-1" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie confused0001" x="676" y="0" width="392" height="460" frameX="-17" frameY="-1" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie confused0002" x="1068" y="0" width="395" height="461" frameX="-5" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie confused0003" x="1068" y="0" width="395" height="461" frameX="-5" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie confused0004" x="1463" y="0" width="396" height="461" frameX="0" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie confused0005" x="1463" y="0" width="396" height="461" frameX="0" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie normal0000" x="0" y="464" width="392" height="460" frameX="-17" frameY="-1" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie normal0001" x="0" y="464" width="392" height="460" frameX="-17" frameY="-1" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie normal0002" x="392" y="464" width="395" height="461" frameX="-5" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie normal0003" x="392" y="464" width="395" height="461" frameX="-5" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie normal0004" x="787" y="464" width="396" height="461" frameX="0" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie normal0005" x="787" y="464" width="396" height="461" frameX="0" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie unsmile0000" x="1183" y="464" width="392" height="460" frameX="-17" frameY="-1" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie unsmile0001" x="1183" y="464" width="392" height="460" frameX="-17" frameY="-1" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie unsmile0002" x="1575" y="464" width="395" height="461" frameX="-5" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie unsmile0003" x="1575" y="464" width="395" height="461" frameX="-5" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie unsmile0004" x="0" y="925" width="396" height="461" frameX="0" frameY="0" frameWidth="409" frameHeight="461"/>
+	<SubTexture name="susie unsmile0005" x="0" y="925" width="396" height="461" frameX="0" frameY="0" frameWidth="409" frameHeight="461"/>
+</TextureAtlas>

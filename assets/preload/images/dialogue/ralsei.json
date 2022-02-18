@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		20
+	],
+	"scale": 1.55,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "normal0005",
+			"loop_name": "normal"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-48
+			],
+			"anim": "hatlessnormal",
+			"loop_offsets": [
+				-4,
+				-48
+			],
+			"idle_name": "hatlessnormal0005",
+			"loop_name": "hatlessnormal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy0005",
+			"loop_name": "happy"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-48
+			],
+			"anim": "hatlesshappy",
+			"loop_offsets": [
+				-4,
+				-48
+			],
+			"idle_name": "hatlesshappy0005",
+			"loop_name": "hatlesshappy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad0005",
+			"loop_name": "sad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confused0005",
+			"loop_name": "confused"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-48
+			],
+			"anim": "hidden",
+			"loop_offsets": [
+				-4,
+				-48
+			],
+			"idle_name": "hidden0005",
+			"loop_name": "hidden"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "unsmile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "unsmile",
+			"idle_name": "unsmile0005"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "idk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idk0005",
+			"loop_name": "idk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shocked",
+			"idle_name": "shocked0005"
+		}
+	],
+	"image": "ralsei"
+}

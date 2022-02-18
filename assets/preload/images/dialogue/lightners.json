@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-70,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "kris normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kris normal0000",
+			"anim": "kris normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "kris smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kris smile0000",
+			"anim": "kris smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "susie normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "susie normal0005",
+			"anim": "susie normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "susie unsmile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "susie unsmile0005",
+			"anim": "susie unsmile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "susie confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "susie confused0005",
+			"anim": "susie confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "lightners"
+}
