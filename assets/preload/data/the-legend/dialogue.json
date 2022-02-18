@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "idk",
+			"text": "I hope you liked this song.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "unsmile",
+			"text": "And i hope that it wasn't too... um... \rboring...?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "talk",
+			"text": "I liked it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "sleep",
+			"text": "(zzzzzzzz)",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Bf!",
+			"boxState": "angry",
+			"portrait": "gf",
+			"speed": 0.04
+		},
+		{
+			"expression": "shocked",
+			"text": "AAh",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.04
+		},
+		{
+			"expression": "idk",
+			"text": "Do not worry, i understand that he fell asleep.",
+			"boxState": "normal",
+			"portrait": "ralsei",
+			"speed": 0.04
+		},
+		{
+			"expression": "confused",
+			"text": "It was a lullaby...",
+			"boxState": "normal",
+			"portrait": "ralsei",
+			"speed": 0.04
+		},
+		{
+			"expression": "normal",
+			"text": "But I know another song that can be \\ninteresting.",
+			"boxState": "normal",
+			"portrait": "ralsei",
+			"speed": 0.04
+		},
+		{
+			"expression": "idk",
+			"text": "Please, listen to my tale.",
+			"boxState": "normal",
+			"portrait": "ralsei",
+			"speed": 0.04
+		}
+	]
+}
