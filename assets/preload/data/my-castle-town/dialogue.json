@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Kris, Susie, everyone!!",
+			"boxState": "normal",
+			"portrait": "ralsei",
+			"speed": 0.04
+		},
+		{
+			"expression": "susie normal",
+			"text": "Sup.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "lightners"
+		},
+		{
+			"expression": "happy",
+			"text": "I'm so happy to see you!\\nI feel like it's been years!",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "susie unsmile",
+			"text": "Heh, it's only been since yesterday...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "lightners"
+		},
+		{
+			"expression": "kris normal",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.14,
+			"portrait": "lightners"
+		},
+		{
+			"expression": "kris smile",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.14,
+			"portrait": "lightners"
+		},
+		{
+			"expression": "happy",
+			"text": "Thank you for bringing everyone back!",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "normal",
+			"text": "We should take a look at Castle Town, a lot of things have changed since yesterday.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "idk",
+			"text": "What took you so long to come here?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "susie unsmile",
+			"text": "I dunno, class?",
+			"boxState": "normal",
+			"portrait": "lightners",
+			"speed": 0.04
+		},
+		{
+			"expression": "susie confused",
+			"text": "Hey dude... Who are these two?",
+			"boxState": "normal",
+			"portrait": "lightners",
+			"speed": 0.04
+		},
+		{
+			"expression": "confused",
+			"text": "Beee.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "idk",
+			"text": "Oh, uh... They're just here for a little \rmoment, i guess?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "sad",
+			"text": "They will be leaving soon.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "hidden",
+			"text": "The blue-haired boy asked me to sing with him. And the next song will be the last one...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "hidden",
+			"text": "I hope this one will be as enjoyable as the others.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "hatlesshappy",
+			"text": "I'm glad the other two of you came here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "confused",
+			"text": "EEy bop???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "susie confused",
+			"text": "Oh, that's right. You look like this without your hat...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "lightners"
+		},
+		{
+			"expression": "kris smile",
+			"text": ":)",
+			"boxState": "normal",
+			"speed": 0.095,
+			"portrait": "lightners"
+		}
+	]
+}
