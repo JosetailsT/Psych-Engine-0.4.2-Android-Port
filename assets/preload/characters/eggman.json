@@ -8,82 +8,82 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "SONIC IDLE",
+			"name": "Eggman_Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				30
+				239,
+				100
 			],
 			"anim": "singLEFT",
-			"fps": 28,
-			"name": "SONIC RIGHT",
+			"fps": 24,
+			"name": "Eggman_Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				19,
-				-29
+				50,
+				-100
 			],
 			"anim": "singDOWN",
-			"fps": 28,
-			"name": "SONIC DOWN",
+			"fps": 24,
+			"name": "Eggman_Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				83,
-				43
+				124,
+				230
 			],
 			"anim": "singUP",
-			"fps": 28,
-			"name": "SONIC UP",
+			"fps": 24,
+			"name": "Eggman_Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				74,
-				5
-			],
-			"anim": "HEY!!",
-			"fps": 28,
-			"name": "SONIC HEY!!",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				55,
-				25
+				-5,
+				169
 			],
 			"anim": "singRIGHT",
-			"fps": 28,
-			"name": "SONIC LEFT",
+			"fps": 24,
+			"name": "Eggman_Right",
 			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				204
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "hey",
+			"indices": [],
+			"name": "Eggman_Laugh"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Sonic",
+	"image": "characters/eggman_soul",
 	"position": [
-		0,
-		400
+		-40,
+		180
 	],
-	"healthicon": "sonichd",
-	"flip_x": true,
+	"healthicon": "eggman",
+	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
-	],
-	"camera_position": [
-		150,
+		153,
+		102,
 		0
 	],
-	"sing_duration": 4,
+	"camera_position": [
+		-60,
+		20
+	],
+	"sing_duration": 6.1,
 	"scale": 1
 }

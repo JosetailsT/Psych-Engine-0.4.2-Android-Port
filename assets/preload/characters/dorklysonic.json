@@ -8,82 +8,71 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "SONIC IDLE",
+			"name": "dorkly idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				30
+				67,
+				-27
 			],
 			"anim": "singLEFT",
-			"fps": 28,
-			"name": "SONIC RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				19,
-				-29
-			],
-			"anim": "singDOWN",
-			"fps": 28,
-			"name": "SONIC DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				83,
-				43
-			],
-			"anim": "singUP",
-			"fps": 28,
-			"name": "SONIC UP",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				74,
-				5
-			],
-			"anim": "HEY!!",
-			"fps": 28,
-			"name": "SONIC HEY!!",
+			"fps": 24,
+			"name": "dorkly left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				55,
-				25
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dorkly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dorkly up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-6
 			],
 			"anim": "singRIGHT",
-			"fps": 28,
-			"name": "SONIC LEFT",
+			"fps": 24,
+			"name": "dorkly right",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/Sonic",
+	"no_antialiasing": true,
+	"image": "characters/dorkly_assets",
 	"position": [
-		0,
-		400
+		10,
+		260
 	],
-	"healthicon": "sonichd",
-	"flip_x": true,
+	"healthicon": "dorkly",
+	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		0,
+		51,
+		255
 	],
 	"camera_position": [
-		150,
-		0
+		0,
+		50
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

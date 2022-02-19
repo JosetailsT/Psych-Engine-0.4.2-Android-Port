@@ -6,83 +6,72 @@
 				0,
 				0
 			],
-			"anim": "idle",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "SONIC IDLE",
+			"name": "BF NOTE DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				30
+				1,
+				10
 			],
 			"anim": "singLEFT",
 			"fps": 28,
-			"name": "SONIC RIGHT",
+			"name": "BF NOTE LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				19,
-				-29
-			],
-			"anim": "singDOWN",
-			"fps": 28,
-			"name": "SONIC DOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				83,
-				43
-			],
-			"anim": "singUP",
-			"fps": 28,
-			"name": "SONIC UP",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				74,
-				5
-			],
-			"anim": "HEY!!",
-			"fps": 28,
-			"name": "SONIC HEY!!",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				55,
-				25
+				-16,
+				7
 			],
 			"anim": "singRIGHT",
 			"fps": 28,
-			"name": "SONIC LEFT",
+			"name": "BF NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "BF NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "BF IDLE",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Sonic",
+	"image": "characters/bfSuperRunningTop",
 	"position": [
 		0,
-		400
+		350
 	],
-	"healthicon": "sonichd",
+	"healthicon": "bfhd",
 	"flip_x": true,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		150,
-		0
+		260,
+		50
 	],
 	"sing_duration": 4,
 	"scale": 1

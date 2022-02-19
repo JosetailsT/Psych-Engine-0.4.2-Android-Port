@@ -8,82 +8,82 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "SONIC IDLE",
+			"name": "Beast_IDLE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				30
+				184,
+				-93
 			],
 			"anim": "singLEFT",
-			"fps": 28,
-			"name": "SONIC RIGHT",
+			"fps": 24,
+			"name": "Beast_LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				19,
-				-29
+				24,
+				-95
 			],
 			"anim": "singDOWN",
-			"fps": 28,
-			"name": "SONIC DOWN",
+			"fps": 24,
+			"name": "Beast_DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				83,
-				43
+				50,
+				75
 			],
 			"anim": "singUP",
-			"fps": 28,
-			"name": "SONIC UP",
+			"fps": 24,
+			"name": "Beast_UP",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				74,
-				5
-			],
-			"anim": "HEY!!",
-			"fps": 28,
-			"name": "SONIC HEY!!",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				55,
-				25
+				-308,
+				-60
 			],
 			"anim": "singRIGHT",
-			"fps": 28,
-			"name": "SONIC LEFT",
+			"fps": 24,
+			"name": "Beast_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-225
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Beast_LAUGH",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Sonic",
+	"image": "characters/Beast",
 	"position": [
-		0,
-		400
+		-70,
+		-110
 	],
-	"healthicon": "sonichd",
-	"flip_x": true,
+	"healthicon": "beastsonic",
+	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		42,
+		5,
+		118
 	],
 	"camera_position": [
-		150,
-		0
+		-40,
+		90
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
