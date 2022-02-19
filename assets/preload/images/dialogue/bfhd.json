@@ -1,0 +1,141 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 0.7,
+	"image": "bfhd",
+	"animations": [
+		{
+			"idle_offsets": [
+				300,
+				330
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				300,
+				330
+			],
+			"idle_name": "Shock",
+			"loop_name": "Shock"
+		},
+		{
+			"loop_offsets": [
+				220,
+				260
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				220,
+				260
+			],
+			"loop_name": "Curious",
+			"idle_name": "Curious"
+		},
+		{
+			"loop_offsets": [
+				-460,
+				0
+			],
+			"anim": "no one",
+			"idle_offsets": [
+				-470,
+				0
+			],
+			"loop_name": "BF LOOP",
+			"idle_name": "BF0"
+		},
+		{
+			"idle_offsets": [
+				300,
+				260
+			],
+			"anim": "upset",
+			"loop_offsets": [
+				300,
+				260
+			],
+			"idle_name": "Upset",
+			"loop_name": "Upset"
+		},
+		{
+			"idle_offsets": [
+				230,
+				290
+			],
+			"anim": "EXTRA SHOCK",
+			"loop_offsets": [
+				230,
+				290
+			],
+			"idle_name": "Sonic Ran",
+			"loop_name": "Sonic Ran"
+		},
+		{
+			"idle_offsets": [
+				340,
+				320
+			],
+			"anim": "Star Struck",
+			"loop_offsets": [
+				340,
+				320
+			],
+			"idle_name": "Star Struck",
+			"loop_name": "Star Struck"
+		},
+		{
+			"idle_offsets": [
+				540,
+				290
+			],
+			"anim": "Run Sad",
+			"loop_offsets": [
+				540,
+				290
+			],
+			"idle_name": "Run Sad",
+			"loop_name": "Run Sad"
+		},
+		{
+			"loop_name": "Run Idle",
+			"idle_offsets": [
+				540,
+				290
+			],
+			"idle_name": "Run Idle",
+			"anim": "Run Idle",
+			"loop_offsets": [
+				540,
+				290
+			]
+		},
+		{
+			"loop_name": "Tired",
+			"idle_offsets": [
+				260,
+				270
+			],
+			"idle_name": "Tired",
+			"anim": "Tired",
+			"loop_offsets": [
+				260,
+				270
+			]
+		},
+		{
+			"loop_name": "Talk",
+			"idle_offsets": [
+				200,
+				270
+			],
+			"idle_name": "Talk",
+			"anim": "Talk",
+			"loop_offsets": [
+				200,
+				270
+			]
+		}
+	]
+}

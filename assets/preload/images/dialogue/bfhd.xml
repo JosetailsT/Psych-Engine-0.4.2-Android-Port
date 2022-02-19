@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfhd.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Curious0000" x="0" y="0" width="639" height="929"/>
+	<SubTexture name="Run Idle0000" x="639" y="0" width="1401" height="843"/>
+	<SubTexture name="Run Sad0000" x="2040" y="0" width="1398" height="841"/>
+	<SubTexture name="Shock0000" x="0" y="929" width="935" height="1079"/>
+	<SubTexture name="Sonic Ran0000" x="935" y="929" width="737" height="909"/>
+	<SubTexture name="Star Struck0000" x="1672" y="929" width="999" height="893"/>
+	<SubTexture name="Talk0000" x="2671" y="929" width="574" height="842"/>
+	<SubTexture name="Tired0000" x="3245" y="929" width="715" height="944"/>
+	<SubTexture name="Upset0000" x="0" y="2008" width="932" height="875"/>
+</TextureAtlas>

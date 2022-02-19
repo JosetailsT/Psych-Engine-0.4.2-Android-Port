@@ -1,0 +1,141 @@
+{
+	"position": [
+		10,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 0.549999999999999,
+	"image": "sonic",
+	"animations": [
+		{
+			"loop_name": "super sonic yikes.png",
+			"idle_offsets": [
+				280,
+				490
+			],
+			"idle_name": "super sonic yikes.png",
+			"anim": "super yikes",
+			"loop_offsets": [
+				280,
+				490
+			]
+		},
+		{
+			"loop_name": "super sonic reassure.png",
+			"idle_offsets": [
+				280,
+				490
+			],
+			"idle_name": "super sonic reassure.png",
+			"anim": "super reassure",
+			"loop_offsets": [
+				280,
+				490
+			]
+		},
+		{
+			"loop_name": "super sonic default.png",
+			"idle_offsets": [
+				280,
+				490
+			],
+			"idle_name": "super sonic default.png",
+			"anim": "super talk",
+			"loop_offsets": [
+				280,
+				490
+			]
+		},
+		{
+			"loop_name": "sonic default.png",
+			"idle_offsets": [
+				280,
+				347
+			],
+			"idle_name": "sonic default.png",
+			"anim": "talk",
+			"loop_offsets": [
+				280,
+				347
+			]
+		},
+		{
+			"loop_name": "sonic fist.png",
+			"idle_offsets": [
+				280,
+				347
+			],
+			"idle_name": "sonic fist.png",
+			"anim": "fist",
+			"loop_offsets": [
+				280,
+				347
+			]
+		},
+		{
+			"loop_name": "sonic laugh.png",
+			"idle_offsets": [
+				280,
+				347
+			],
+			"idle_name": "sonic laugh.png",
+			"anim": "laugh",
+			"loop_offsets": [
+				280,
+				346
+			]
+		},
+		{
+			"loop_name": "sonic run.png",
+			"idle_offsets": [
+				210,
+				347
+			],
+			"idle_name": "sonic run.png",
+			"anim": "run",
+			"loop_offsets": [
+				210,
+				347
+			]
+		},
+		{
+			"loop_name": "sonic happy.png",
+			"idle_offsets": [
+				280,
+				347
+			],
+			"idle_name": "sonic happy.png",
+			"anim": "happy",
+			"loop_offsets": [
+				280,
+				347
+			]
+		},
+		{
+			"loop_name": "sonic confused.png",
+			"idle_offsets": [
+				280,
+				347
+			],
+			"idle_name": "sonic confused.png",
+			"anim": "confused",
+			"loop_offsets": [
+				280,
+				347
+			]
+		},
+		{
+			"loop_name": "sonic blush.png",
+			"idle_offsets": [
+				280,
+				347
+			],
+			"idle_name": "sonic blush.png",
+			"anim": "blush",
+			"loop_offsets": [
+				280,
+				347
+			]
+		}
+	]
+}

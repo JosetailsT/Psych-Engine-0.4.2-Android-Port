@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIC PORTRAITS.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic blush.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="sonic confused.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="sonic default.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="sonic fist.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="sonic happy.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="sonic laugh.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="sonic run.png" x="10" y="10" width="1275" height="1166"/>
+	<SubTexture name="super sonic default.png" x="0" y="1211" width="2105" height="1666"/>
+	<SubTexture name="super sonic reassure.png" x="0" y="1211" width="2105" height="1666"/>
+	<SubTexture name="super sonic yikes.png" x="0" y="1211" width="2105" height="1666"/>
+</TextureAtlas>
